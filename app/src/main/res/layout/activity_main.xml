@@ -24,6 +24,7 @@
         android:layout_height="wrap_content"
 
         android:text="Button Two"
+        android:background="@color/colorAccent"
         android:id="@+id/button_two"
         android:layout_below="@+id/button_one"
         android:layout_centerHorizontal="true"
